@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Bibek Poudel – an aspiring AI Engineer & Machine Learning Enthusiast
+# 💫 About Me: 
+Hi, I’m Bibek Poudel– an aspiring AI Engineer & Machine Learning Enthusiast
 
 
 ## 🌐 Socials:
